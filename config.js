@@ -59,7 +59,7 @@ global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null";
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "234xxxxxxxxxx";
 
 global.api_smd = "https://api-smd.onrender.com" //  || "https://api-smd-1.vercel.app" // expires
-global.scan = "https://suhail-md-vtsf.onrender.com";
+global.pair = "https://suhail-md-vtsf.onrender.com/code";
 
 
 global.SESSION_ID = process.env.SESSION_ID ||  ""  // PUT your SESSION_ID 
